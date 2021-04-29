@@ -1,0 +1,4 @@
+com/sap/spring/kafka/test/KafkaConsumer.class
+com/sap/spring/kafka/test/KafkaProducer.class
+com/sap/spring/kafka/test/KafkaApplication.class
+com/sap/spring/kafka/test/KafkaConfig.class
